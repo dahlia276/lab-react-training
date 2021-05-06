@@ -36,3 +36,58 @@
     transform: rotate(360deg);
   }
 }
+
+.idcard{
+  border: 1px solid black;
+  width: 1400px;
+  margin-top: 20px;
+}
+
+.greet{
+  border: 2px solid black;
+  width: 700px;
+  margin-top: 20px;
+}
+
+.random{
+  border: 2px solid black;
+  width: 700px;
+  margin-top: 20px;
+}
+
+.box{
+  border: 2px solid black;
+  width: 700px;
+  height: 100px;
+  margin-top: 20px;
+}
+
+.credit{
+  border: 1px solid;
+  border-radius: 20px;
+  width: 400px;
+  flex-direction: row;
+  flex-flow: row;
+  display: inline-flex;
+  margin-right: 20px;
+  
+}
+
+.fill{
+  height: 100px;
+}
+
+.bkg{
+  width: 400px;
+}
+
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
